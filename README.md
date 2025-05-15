@@ -157,7 +157,7 @@ void loop()
 ![image](https://github.com/user-attachments/assets/b6d14e69-22bf-4c2e-8ad3-cf42cdc66eeb)
 
 # OUTPUT:
-![Screenshot 2025-04-22 142614](https://github.com/user-attachments/assets/077a1e24-66d9-4811-a704-9c5a008e1bba)
+![image](https://github.com/user-attachments/assets/e86ef15e-9013-4e62-a5b4-7c337c502cf5)
 ![image](https://github.com/user-attachments/assets/61546780-e8a4-471b-8400-4c0f20a9b578)
 
 
