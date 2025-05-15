@@ -1,4 +1,6 @@
-# Uploading LDR sensor data in Thing Speak cloud
+#### NAME: DEVADARSHAN A S
+#### REG NO: 212222110007
+# EXP-04 Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
