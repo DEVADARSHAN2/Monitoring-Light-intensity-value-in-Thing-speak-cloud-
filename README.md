@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1488e0db-df5c-41a7-a828-69946ee78273)# Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
