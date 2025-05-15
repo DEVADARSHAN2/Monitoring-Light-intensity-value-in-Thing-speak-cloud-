@@ -1,5 +1,5 @@
-#### NAME: DEVADARSHAN A S
-#### REG NO: 212222110007
+### NAME: DEVADARSHAN A S
+### REG NO: 212222110007
 # EXP-04 Uploading LDR sensor data in Thing Speak cloud
 
 # AIM:
